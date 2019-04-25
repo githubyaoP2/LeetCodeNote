@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67b7e2ae-8a8a-4dab-a725-271eb2983ea7" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CountAndSay.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/CountAndSay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="39" column="22" selection-start-line="22" selection-start-column="8" selection-end-line="39" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CombinationSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/CombinationSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="63" selection-start-line="63" selection-end-line="68" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CombinationSum2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/CombinationSum2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1650">
+              <caret line="66" selection-start-line="33" selection-start-column="3" selection-end-line="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstMissingPositive.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_41_50/FirstMissingPositive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="31" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Trap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_41_50/Trap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="48" column="25" selection-start-line="26" selection-start-column="8" selection-end-line="48" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Multiply.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_41_50/Multiply.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="800">
+              <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+              <folding>
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/util/Sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddTwoNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/AddTwoNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BigInteger.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/jdk1.8/src.zip!/java/math/BigInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7950">
+              <caret line="353" column="11" selection-start-line="353" selection-start-column="11" selection-end-line="353" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/jdk1.8/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6625">
+              <caret line="297" column="60" selection-start-line="297" selection-start-column="54" selection-end-line="297" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;</find>
+      <find>Conc</find>
+      <find>equal</find>
+      <find>^</find>
+      <find>hash</find>
+      <find>15906798807</find>
+      <find>,</find>
+      <find>[</find>
+      <find>equals</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'</replace>
+      <replace>，</replace>
+      <replace>{</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_11_20/IntToRoman.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_11_20/RomanToInt.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_11_20/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_11_20/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_11_20/LetterCombinations.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_11_20/AATest.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_11_20/FourSum.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_11_20/ThreeSumClosest.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_11_20/RemoveNthFromEnd.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_11_20/FourSum_A.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_11_20/IsValid.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/algorithms/greedy/Kruskal.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/algorithms/greedy/Prim.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/algorithms/greedy/Dijkstra.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/algorithms/dp/CoinRow.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/algorithms/dp/ChangeMaking.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/algorithms/dp/RobotCoinCollection.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_21_30/GenerateParenthesis.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/util/Build.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/struct/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_1_10/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_21_30/MergeKLists.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_21_30/MergeTwoLists.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_21_30/SwapPairs.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_21_30/ReverseKGroup.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_21_30/RemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_21_30/removeElement.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_21_30/RemoveElement.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_21_30/Divide.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_21_30/FindSubstring.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/util/Search.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/util/AATest.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_21_30/FindSubstring_A.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_21_30/Divide_A.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_21_30/AATest.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_21_30/StrStr.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_31_40/NextPermutation.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_31_40/SearchRange.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_31_40/SearchInsert.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_31_40/AATest.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_31_40/IsValidSudoku.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_31_40/SolveSudoku.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_31_40/Search.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_31_40/LongestValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_31_40/CountAndSay.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_31_40/CombinationSum.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_31_40/CombinationSum2.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_41_50/FirstMissingPositive.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_41_50/Trap.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/_41_50/Multiply.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/solution/util/Sort.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1374" />
+    <option name="height" value="724" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCodeNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeNote" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeNote" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeNote" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeNote" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="solution" type="462c0819:PsiDirectoryNode" />
+              <item name="_41_50" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeNote" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="solution" type="462c0819:PsiDirectoryNode" />
+              <item name="struct" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeNote" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="solution" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="HashMap&#9;FILE&#9;jar://D:/jdk1.8/src.zip!/java/util/HashMap.java&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/code" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Multiply">
+    <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution._31_40.CombinationSum" />
+      <module name="LeetCodeNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.solution._31_40.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CombinationSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution._31_40.CombinationSum2" />
+      <module name="LeetCodeNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.solution._31_40.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CountAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution._31_40.CountAndSay" />
+      <module name="LeetCodeNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.solution._31_40.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FirstMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution._41_50.FirstMissingPositive" />
+      <module name="LeetCodeNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.solution._41_50.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LongestValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution._31_40.LongestValidParentheses" />
+      <module name="LeetCodeNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.solution._31_40.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution._41_50.Multiply" />
+      <module name="LeetCodeNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.solution._41_50.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ReverseKGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution._21_30.ReverseKGroup" />
+      <module name="LeetCodeNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.solution._21_30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Trap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.solution._41_50.Trap" />
+      <module name="LeetCodeNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.solution._41_50.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.CountAndSay" />
+      <item itemvalue="Application.CombinationSum2" />
+      <item itemvalue="Application.FirstMissingPositive" />
+      <item itemvalue="Application.Trap" />
+      <item itemvalue="Application.Multiply" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Multiply" />
+        <item itemvalue="Application.Trap" />
+        <item itemvalue="Application.FirstMissingPositive" />
+        <item itemvalue="Application.CombinationSum2" />
+        <item itemvalue="Application.CountAndSay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator.MININT-3P0Q2OH\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67b7e2ae-8a8a-4dab-a725-271eb2983ea7" name="Default" comment="" />
+      <created>1551662927676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551662927676</updated>
+      <workItem from="1551662938841" duration="30120000" />
+      <workItem from="1551919509866" duration="4186000" />
+      <workItem from="1551923987524" duration="19666000" />
+      <workItem from="1552351279776" duration="589000" />
+      <workItem from="1552360443412" duration="589000" />
+      <workItem from="1552361455824" duration="24088000" />
+      <workItem from="1552542636501" duration="33684000" />
+      <workItem from="1552811130375" duration="67223000" />
+      <workItem from="1553591709751" duration="25429000" />
+      <workItem from="1554195377275" duration="7750000" />
+      <workItem from="1554257631528" duration="10625000" />
+      <workItem from="1555464458853" duration="42000" />
+      <workItem from="1556108245061" duration="605000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="224596000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1374" height="724" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32943678" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33795494" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Sequence" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19108762" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3778163" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32943678" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33795494" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32943678" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3308157" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32943678" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3778163" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Sequence" order="12" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/AddTwoNumbers.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/AddTwoNumbers.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/LengthOfLongestSubstring.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/LengthOfLongestSubstring.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/LengthOfLongestSubstring.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/LengthOfLongestSubstring.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/LongestPalindrome.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/LongestPalindrome.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/Convert.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/Convert.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/MyAtoi.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/MyAtoi.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/IsMatch.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/IsMatch.java</url>
+          <line>108</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_11_20/IntToRoman.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_11_20/RomanToInt.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_11_20/RomanToInt.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_11_20/ThreeSum.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_11_20/LetterCombinations.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_11_20/FourSum_A.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/ReverseKGroup.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/ReverseKGroup.java</url>
+          <line>175</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/ReverseKGroup.java</url>
+          <line>181</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/ReverseKGroup.java</url>
+          <line>183</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/AATest.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/RemoveDuplicates.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/Divide.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/util/Search.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/util/Search.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/StrStr.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/StrStr.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/StrStr.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/NextPermutation.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/Search.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/SearchRange.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/SearchInsert.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/SolveSudoku.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/SolveSudoku.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/LongestValidParentheses.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/CountAndSay.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/CombinationSum.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/CombinationSum2.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_41_50/FirstMissingPositive.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_41_50/Trap.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_41_50/Multiply.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_41_50/Multiply.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/StrStr.java</url>
+          <line>29</line>
+          <properties class="com.leetcode.solution._21_30.StrStr" method="getNext">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="116" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/algorithms/greedy/HuffmanTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/algorithms/dp/Package.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/algorithms/dp/Warshall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/algorithms/dp/CoinRow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/algorithms/dp/ChangeMaking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/algorithms/dp/RobotCoinCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/util/StringSearch.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/algorithms/string/KMP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_11_20/IsValid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/solution2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/GenerateParenthesis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/util/Build.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/MergeKLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/MergeTwoLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/struct/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/ReverseKGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+          <folding>
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/RemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/RemoveElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/SwapPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="1958" selection-start-line="1958" selection-end-line="1958" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/FindSubstring_A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/util/AATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/AATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/Divide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="68" column="35" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3125">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_21_30/StrStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="method#strStr#0;class#StrStr#0" />
+            <element signature="method#getNext#0;class#StrStr#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/NextPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" selection-start-line="38" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_41_50/AATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/AATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/IsValidSudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="82" column="20" lean-forward="true" selection-start-line="63" selection-start-column="8" selection-end-line="82" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/util/BestTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/util/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_11_20/LetterCombinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/algorithms/backtrack/Queens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/SolveSudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/SearchInsert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="65" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/SearchRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1625">
+          <caret line="115" column="21" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
+          <folding>
+            <element signature="method#searchHelp#0;class#Search#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/LongestValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/CountAndSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="39" column="22" selection-start-line="22" selection-start-column="8" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/CombinationSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="63" selection-start-line="63" selection-end-line="68" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6625">
+          <caret line="297" column="60" selection-start-line="297" selection-start-column="54" selection-end-line="297" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_31_40/CombinationSum2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="66" selection-start-line="33" selection-start-column="3" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_41_50/FirstMissingPositive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_41_50/Trap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="48" column="25" selection-start-line="26" selection-start-column="8" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7950">
+          <caret line="353" column="11" selection-start-line="353" selection-start-column="11" selection-end-line="353" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_1_10/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/_41_50/Multiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding>
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/solution/util/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
